@@ -9,6 +9,7 @@ int txPin = 17;
 Adafruit_NeoPixel pixels(NUMPIXELS, LED_PIN, NEO_GRB + NEO_KHZ800);
 SdsDustSensor sds(rxPin, txPin);
 
+
 void setup() {
   Serial.begin(9600);
   pixels.begin();
