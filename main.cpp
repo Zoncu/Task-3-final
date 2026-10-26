@@ -41,5 +41,5 @@ void setLedColor(int r, int g, int b) {
   for(int i=0; i<NUMPIXELS; i++) {
     pixels.setPixelColor(i, pixels.Color(r, g, b));
   }
-  pixels.show();
+  pixelshow()
 }
