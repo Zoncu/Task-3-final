@@ -41,6 +41,7 @@ This method allows for the rapid creation of a working prototype (MVP). Initiall
 
 Operating Instructions for the "Smart Ventilation Assistant" (VVA-1)
 
+
 What is it?
 The VVA-1 is an air quality monitor that analyzes outdoor air to help you decide whether it is safe to open classroom windows.
 
